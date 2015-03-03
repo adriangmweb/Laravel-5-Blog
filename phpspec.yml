@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: BlogLaravel
+        psr4_prefix: BlogLaravel
+        src_path: app
