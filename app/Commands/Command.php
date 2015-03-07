@@ -1,4 +1,4 @@
-<?php namespace BlogLaravel\Commands;
+<?php namespace App\Commands;
 
 abstract class Command {
 

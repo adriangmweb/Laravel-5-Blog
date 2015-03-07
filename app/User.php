@@ -1,4 +1,4 @@
-<?php namespace BlogLaravel;
+<?php namespace App;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
